@@ -23,7 +23,7 @@ spec:
     spec: # Pod spec
       containers:
       - name: nodejs-container
-        image: 335871625378.dkr.ecr.eu-west-2.amazonaws.com/karo-march-repo:5
+        image: 335871625378.dkr.ecr.eu-west-2.amazonaws.com/karo-march-repo:6
         ports:
         - containerPort: 8080
         
